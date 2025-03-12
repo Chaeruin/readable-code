@@ -47,4 +47,11 @@ public class StudyCafePass {
         return "";
     }
 
+    public int getDiscountPrice() {
+        return (int) (this.price * discountRate);
+    }
+
+    public boolean isSamePassTypeWith(StudyCafePassType studyCafePassType) {
+        return passType == studyCafePassType;
+    }
 }
