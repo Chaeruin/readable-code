@@ -1,8 +1,8 @@
 package cleancode.studycafe.tobe;
 
 
-import cleancode.minesweeper.tobe.minesweeper.io.ConsoleInputHandler;
-import cleancode.minesweeper.tobe.minesweeper.io.ConsoleOutputHandler;
+import cleancode.studycafe.tobe.io.ConsoleInputHandler;
+import cleancode.studycafe.tobe.io.ConsoleOutputHandler;
 import cleancode.studycafe.tobe.config.StudyCafeConfig;
 import cleancode.studycafe.tobe.io.StudyCafeFileHandler;
 

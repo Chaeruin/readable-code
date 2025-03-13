@@ -5,7 +5,6 @@ import cleancode.studycafe.tobe.model.StudyCafeLockerPass;
 import cleancode.studycafe.tobe.model.StudyCafePass;
 
 import cleancode.studycafe.tobe.model.StudyCafePasses;
-import java.util.List;
 
 public class ConsoleOutputHandler implements OutputHandler {
 
