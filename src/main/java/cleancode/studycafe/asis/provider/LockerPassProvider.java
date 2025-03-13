@@ -1,6 +1,6 @@
 package cleancode.studycafe.asis.provider;
 
-import cleancode.studycafe.tobe.model.pass.locker.StudyCafeLockerPasses;
+import cleancode.studycafe.asis.model.pass.locker.StudyCafeLockerPasses;
 
 public interface LockerPassProvider {
 

@@ -1,18 +1,18 @@
 package cleancode.studycafe.asis.io;
 
-import cleancode.studycafe.tobe.io.InputHandler;
-import cleancode.studycafe.tobe.io.OutputHandler;
-import cleancode.studycafe.tobe.model.order.StudyCafePassOrder;
-import cleancode.studycafe.tobe.model.pass.locker.StudyCafeLockerPass;
-import cleancode.studycafe.tobe.model.pass.StudyCafeSeatPass;
-import cleancode.studycafe.tobe.model.pass.StudyCafePassType;
+import cleancode.studycafe.asis.io.InputHandler;
+import cleancode.studycafe.asis.io.OutputHandler;
+import cleancode.studycafe.asis.model.order.StudyCafePassOrder;
+import cleancode.studycafe.asis.model.pass.locker.StudyCafeLockerPass;
+import cleancode.studycafe.asis.model.pass.StudyCafeSeatPass;
+import cleancode.studycafe.asis.model.pass.StudyCafePassType;
 
 import java.util.List;
 
 public class StudyCafeIOHandler {
 
-    private final cleancode.studycafe.tobe.io.InputHandler inputHandler = new InputHandler();
-    private final cleancode.studycafe.tobe.io.OutputHandler outputHandler = new OutputHandler();
+    private final InputHandler inputHandler = new InputHandler();
+    private final OutputHandler outputHandler = new OutputHandler();
 
     public void showWelcomeMessage() {
         outputHandler.showWelcomeMessage();

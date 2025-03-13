@@ -1,9 +1,9 @@
 package cleancode.studycafe.asis.io.provider;
 
-import cleancode.studycafe.tobe.model.pass.StudyCafePassType;
-import cleancode.studycafe.tobe.model.pass.StudyCafeSeatPass;
-import cleancode.studycafe.tobe.model.pass.StudyCafeSeatPasses;
-import cleancode.studycafe.tobe.provider.SeatPassProvider;
+import cleancode.studycafe.asis.model.pass.StudyCafePassType;
+import cleancode.studycafe.asis.model.pass.StudyCafeSeatPass;
+import cleancode.studycafe.asis.model.pass.StudyCafeSeatPasses;
+import cleancode.studycafe.asis.provider.SeatPassProvider;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,9 +1,9 @@
 package cleancode.studycafe.asis;
 
-import cleancode.studycafe.tobe.io.provider.LockerPassFileReader;
-import cleancode.studycafe.tobe.io.provider.SeatPassFileReader;
-import cleancode.studycafe.tobe.provider.LockerPassProvider;
-import cleancode.studycafe.tobe.provider.SeatPassProvider;
+import cleancode.studycafe.asis.io.provider.LockerPassFileReader;
+import cleancode.studycafe.asis.io.provider.SeatPassFileReader;
+import cleancode.studycafe.asis.provider.LockerPassProvider;
+import cleancode.studycafe.asis.provider.SeatPassProvider;
 
 public class StudyCafeApplication {
 

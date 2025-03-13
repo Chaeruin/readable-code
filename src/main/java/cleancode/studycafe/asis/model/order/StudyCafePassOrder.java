@@ -1,7 +1,7 @@
 package cleancode.studycafe.asis.model.order;
 
-import cleancode.studycafe.tobe.model.pass.StudyCafeSeatPass;
-import cleancode.studycafe.tobe.model.pass.locker.StudyCafeLockerPass;
+import cleancode.studycafe.asis.model.pass.StudyCafeSeatPass;
+import cleancode.studycafe.asis.model.pass.locker.StudyCafeLockerPass;
 
 import java.util.Optional;
 

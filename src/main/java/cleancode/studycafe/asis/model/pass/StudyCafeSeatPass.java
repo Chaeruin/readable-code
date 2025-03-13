@@ -1,6 +1,6 @@
 package cleancode.studycafe.asis.model.pass;
 
-import cleancode.studycafe.tobe.model.pass.locker.StudyCafeLockerPass;
+import cleancode.studycafe.asis.model.pass.locker.StudyCafeLockerPass;
 
 public class StudyCafeSeatPass implements StudyCafePass {
 
